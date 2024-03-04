@@ -3,7 +3,7 @@
 - 저는 성장하는 개발자 이가은입니다.
 
 언어 및 도구
--Java / JavaScript / Html5 / CSS3 / Python / MySQL(MariaDB) / React
+-Java / JavaScript / Html5 / CSS3 / Python / MySQL(MariaDB) / React / Flutter
 
 lms Project (최종)  
 -https://github.com/hyeona-kim/0122p.git  
