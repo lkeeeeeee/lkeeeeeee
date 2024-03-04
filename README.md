@@ -7,6 +7,7 @@
 
 lms Project (최종)
 https://github.com/hyeona-kim/0122p.git
+https://github.com/lkeeeeeee/0112_p2.git
 
 lms Project (1차)
 https://github.com/hyeona-kim/1221p
