@@ -5,5 +5,8 @@
 언어 및 도구
 -Java / JavaScript / Html5 / CSS3 / Python / MySQL / React
 
-lms Project 
+lms Project (최종)
+https://github.com/hyeona-kim/0122p.git
+
+lms Project (1차)
 https://github.com/hyeona-kim/0122p.git
