@@ -19,4 +19,5 @@ lms Project (1차)
 
 C# (.NET Framework) WinForms 기반 배치 프로그램
 외부 API 연계를 통해 매출 데이터를 전송합니다.
+
 🔗 https://github.com/lkeeeeeee/oclick-senddata-batch.git  
