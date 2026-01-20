@@ -25,6 +25,6 @@ lms Project (1차)
 
 **2. online-order**
 
-- react , java sprig
+- React 프론트엔드와 PHP 8.4(Laravel), Spring Boot 백엔드를 사용하는 멀티 백엔드 기반 웹 서비스 프로젝트입니다.
 
 🔗 https://github.com/lkeeeeeee/online-order.git  
