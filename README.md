@@ -43,3 +43,5 @@ lms Project (1차)
 - kicc 텍스프리 개발대비 샘플
 
 🔗 https://github.com/lkeeeeeee/kicc-tex-free.git
+
+** 추가 예정 : 전자영수증 , QR 기반 고객 연동 프로세스 구축
