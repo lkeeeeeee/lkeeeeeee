@@ -2,11 +2,12 @@
 - 끊임없이 도전하고 성취감을 느끼는 저는 발전 가능성이 무궁무진합니다.
 - 저는 성장하는 개발자 이가은입니다.
 
-언어 및 도구
-Languages: Java, JavaScript, Python, C#, PHP, HTML5, CSS3  
-Frameworks: React, Flutter, Laravel, Spring Boot  
-Databases: MySQL(MariaDB), MS SQL Server  
-Platform: .NET
+**언어 및 도구** 
+
+- **Languages**: Java, JavaScript, Python, C#, PHP, HTML5, CSS3  
+- **Frameworks**: React, Flutter, Laravel, Spring Boot  
+- **Databases**: MySQL(MariaDB), MS SQL Server  
+- **Platform**: .NET
 
 # ICT 프로젝트
 lms Project (최종)  
