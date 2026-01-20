@@ -13,9 +13,9 @@ lms Project (최종)
 lms Project (1차)  
 -https://github.com/hyeona-kim/1221p
 
-[XMD 실무 샘플소스]
+# XMD 실무 샘플소스
 
-# oclick-senddata-batch
+**oclick-senddata-batch**
 C# (.NET Framework) WinForms 기반 배치 프로그램
 외부 API 연계를 통해 매출 데이터를 전송합니다.
 🔗 https://github.com/lkeeeeeee/oclick-senddata-batch.git  
