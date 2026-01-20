@@ -3,7 +3,10 @@
 - 저는 성장하는 개발자 이가은입니다.
 
 언어 및 도구
--Java / JavaScript / Html5 / CSS3 / Python / MySQL(MariaDB) / React / Flutter / C# / PHP
+Languages: Java, JavaScript, Python, C#, PHP, HTML5, CSS3  
+Frameworks: React, Flutter, Laravel, Spring Boot  
+Databases: MySQL(MariaDB), MS SQL Server  
+Platform: .NET
 
 # ICT 프로젝트
 lms Project (최종)  
