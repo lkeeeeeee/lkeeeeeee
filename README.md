@@ -48,6 +48,6 @@ lms Project (1차)
 
 - Laravel(PHP) Framework & AngularJS 기반의 웹 애플리케이션
 - KICC 텍스프리(Tax Free) 연동 대비 데이터 바인딩 및 모바일 UI 샘플
-- 
+  
 🔗 https://github.com/lkeeeeeee/mobile_receipt.git
 ** 추가 예정 : QR 기반 고객 연동 프로세스 구축
