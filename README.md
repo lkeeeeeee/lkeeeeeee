@@ -47,7 +47,14 @@ lms Project (1차)
 **4. mobile_receipt**
 
 - Laravel(PHP) Framework & AngularJS 기반의 웹 애플리케이션
-- KICC 텍스프리(Tax Free) 연동 대비 데이터 바인딩 및 모바일 UI 샘플
+- 영수증 기반 매장 전자영수증 샘플
   
 🔗 https://github.com/lkeeeeeee/mobile_receipt.git
-** 추가 예정 : QR 기반 고객 연동 프로세스 구축
+
+**5. qr-customer-bridge**
+
+- Laravel(PHP) & AngularJS 기반의 QR 연동 고객 가입 및 인증 시스템
+- QR Mapping: 고유 코드를 통한 매장/회원사 정보 동적 식별 및 맞춤형 가입 페이지 렌더링
+- B2B Billing: 고객 가입 시 회원사 계정의 서비스 이용료(포인트) 실시간 차감 로직 구현
+
+🔗 https://github.com/lkeeeeeee/qr-customer-bridge.git
