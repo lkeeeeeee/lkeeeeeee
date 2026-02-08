@@ -39,7 +39,7 @@ lms Project (1차)
 
 **3. kicc-tex-free**
 
-- .NET(C#) 기반 WinForms 애플리케이션 및 DLL(Class Library) 개발
+- .NET(C#) 기반 DLL(Class Library) 활용 WinForms 애플리케이션
 - kicc 텍스프리 개발대비 샘플
 
 🔗 https://github.com/lkeeeeeee/kicc-tex-free.git
