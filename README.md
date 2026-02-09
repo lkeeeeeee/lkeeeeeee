@@ -49,7 +49,7 @@ lms Project (1차)
 - Laravel(PHP) Framework & AngularJS 기반의 웹 애플리케이션
 - 영수증 기반 매장 전자영수증 샘플
   
-🔗 https://github.com/lkeeeeeee/mobile_receipt.git
+🔗 https://github.com/lkeeeeeee/mobile_reciept.git 
 
 **5. qr-customer-bridge**
 
